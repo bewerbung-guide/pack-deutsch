@@ -14,7 +14,7 @@ preview.addEventListener("click", () => {
   const player = document.querySelector("#lesson-player");
   const embed = document.createElement("iframe");
   embed.title = "شرح الأستاذة على YouTube";
-  embed.src = "https://www.youtube-nocookie.com/embed/cesUuBzeXY4?autoplay=1&playsinline=1";
+  embed.src = "https://www.youtube-nocookie.com/embed/Oui6s0fJODU?autoplay=1&playsinline=1";
   embed.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
   embed.referrerPolicy = "strict-origin-when-cross-origin";
   embed.allowFullscreen = true;
